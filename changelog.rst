@@ -2,7 +2,7 @@
 Change Log
 ##########
 
-Version 3.1.x
+Version 3.x
 =============
 
 Release Date: Unreleased
@@ -10,6 +10,71 @@ Release Date: Unreleased
 -   New Translations
 
 -   Updated Translations
+
+Version 3.1.4
+==============
+
+Release Date: Mar 20, 2017
+
+-   New Translations
+
+-   Updated Translations
+
+    -   armenian
+    -   azerbaijani
+    -   bengali
+    -   catalan
+    -   dutch
+    -   filipino
+    -   french
+    -   german
+    -   greek
+    -   gujarati
+    -   hindi
+    -   japanese
+    -   khmer
+    -   lithuanian
+    -   persian
+    -   portugese-brazilian
+    -   romanian
+    -   russian
+    -   serbian
+    -   swedish
+    -   thai
+    -   urdu
+    -   vietnamese
+
+
+Version 3.1.3
+=============
+
+Release Date: Jan 9, 2017
+
+-   New Translations
+
+-   Updated Translations
+
+    -   arabic
+    -   bulgarian
+    -   czech
+    -   hungarian
+    -   indonesian
+    -   italian
+    -   latvian
+    -   norwegian
+    -   polish
+    -   portugese
+    -   simplified chinese
+    -   slovak
+    -   slovenian
+    -   spanish
+    -   tamil
+    -   traditional chinese
+    -   turkish
+    -   ukranian
+
+-   Copyright date updated
+-   Link to CodeIgniter website updated (https)
 
 Version 3.1.2
 =============
