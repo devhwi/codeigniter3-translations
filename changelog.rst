@@ -9,7 +9,11 @@ Release Date: Unreleased
 
 -   New Translations
 
+    -   croatian
+
 -   Updated Translations
+
+    -   arabic
 
 Version 3.1.4
 ==============

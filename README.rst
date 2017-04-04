@@ -30,12 +30,13 @@ Each language is maintained by a community member, per the table below:
 =======================  ===========  =================  =========================
 Idiom                    Status       User               Maintainer
 =======================  ===========  =================  =========================
-arabic                   3.1.4        daif               Daif Alotaibi
+arabic                   3.1.4*       daif               Daif Alotaibi
 armenian                 3.1.4        tgrnmrdn           Tigran Muradyan
 azerbaijani              3.1.4        Qarakom            Sübhan Cabbarov
 bengali                  3.1.4        kabircse           Kabir Hossain
 bulgarian                3.1.4        ivantcholakov      Ivan Tcholakov
 catalan                  3.1.4        Ignasimg           Ignasi Molsosa
+croatian                 3.1.4*       PaleRider981       Mario Ljubicic
 czech                    3.1.4        Ruplahlava         Štěpán Postránecký
 dutch                    3.1.4        pkrul              Pieter Krul
 filipino                 3.1.4        dzerium            Edzer Josh V. Padilla
